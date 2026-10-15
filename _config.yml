@@ -1,0 +1,27 @@
+title: Royce · ML × Bioinformatics Engineer
+description: ML × bioinformatics engineer — production AI for mRNA design and cfDNA cancer detection.
+author:
+  name: Royce
+  email: roycelam@umich.edu
+  links:
+    - https://github.com/rollroyces
+    - https://orcid.org/0009-0008-9113-769X
+
+theme: minima
+minima:
+  skin: dark
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: /:title/
+paginate: 10
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
