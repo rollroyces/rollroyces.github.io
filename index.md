@@ -46,7 +46,7 @@ description: ML × bioinformatics engineer — production AI for mRNA design and
       <div class="stat-label">SQL dialects shipped</div>
     </div>
     <div class="stat-card">
-      <div class="stat-value"><span data-counter="12">0</span>+</div>
+      <div class="stat-value"><span data-counter="23">0</span>+</div>
       <div class="stat-label">LLM backends wired</div>
     </div>
     <div class="stat-card">
@@ -228,7 +228,16 @@ description: ML × bioinformatics engineer — production AI for mRNA design and
 
   <div class="writing-card reveal">
     <div class="grow">
-      <p>I publish on <a href="https://medium.com/@roycelam">Medium</a> and <a href="https://dev.to/roycelam">dev.to</a> — see the <a href="https://github.com/rollroyces/rollroyces/issues">blog post plan on GitHub</a> for upcoming topics spanning ML, bioinformatics, and production AI systems.</p>
+      <p>I publish on <a href="https://medium.com/@roycelam">Medium</a> and <a href="https://dev.to/roycelam">dev.to</a>. Drafts and full source live in <a href="https://github.com/rollroyces/blog">rollroyces/blog</a>.</p>
+      <ul class="work-list">
+        <li class="reveal" data-delay="1"><a href="https://github.com/rollroyces/blog/blob/main/posts/01-deepcatch-multi-modal-cfdna-fragmentomics.md">Multi-modal cfDNA fragmentomics for ultra-early cancer detection</a><span class="dash">—</span><span class="desc">Performance-weighted fusion of fragmentomics, methylation, and sequence.</span></li>
+        <li class="reveal" data-delay="2"><a href="https://github.com/rollroyces/blog/blob/main/posts/02-speaksql-9-sql-dialects-one-grammar.md">9 SQL dialects from one grammar</a><span class="dash">—</span><span class="desc">How speakSQL transpiles natural language to vendor-specific SQL.</span></li>
+        <li class="reveal" data-delay="3"><a href="https://github.com/rollroyces/blog/blob/main/posts/03-ns-blowup-100-lemmas-navier-stokes-lean-4.md">100 theorems toward Navier–Stokes regularity in Lean 4</a><span class="dash">—</span><span class="desc">Formalizing fluid dynamics with Lean 4 and Mathlib4.</span></li>
+        <li class="reveal" data-delay="4"><a href="https://github.com/rollroyces/blog/blob/main/posts/04-py-idp-production-document-ai.md">Production document AI</a><span class="dash">—</span><span class="desc">23 LLM backends, HITL review, and per-field eval reports.</span></li>
+        <li class="reveal" data-delay="5"><a href="https://github.com/rollroyces/blog/blob/main/posts/05-nl2pbip-agentic-power-bi-generation.md">Agentic Power BI generation</a><span class="dash">—</span><span class="desc">From one natural-language prompt to a Git-friendly .pbip workspace.</span></li>
+        <li class="reveal" data-delay="6"><a href="https://github.com/rollroyces/blog/blob/main/posts/06-mrnavax-mrna-cancer-therapy-toolkit.md">Eleven tools and twelve model adapters</a><span class="dash">—</span><span class="desc">A usable Python layer over the mRNA-therapy AI literature.</span></li>
+        <li class="reveal" data-delay="7"><a href="https://github.com/rollroyces/blog/blob/main/posts/07-employee-voice-analytics-hr-nlp.md">Turning exit interviews into attrition signals</a><span class="dash">—</span><span class="desc">A dual-runtime HR-NLP toolkit with privacy guardrails.</span></li>
+      </ul>
     </div>
   </div>
 </section>
