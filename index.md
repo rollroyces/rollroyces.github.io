@@ -227,7 +227,7 @@ description: ML × bioinformatics engineer — production AI for mRNA design and
 
   <div class="writing-card reveal">
     <div class="grow">
-      <p>I publish on <a href="https://medium.com/@roycelam">Medium</a> and <a href="https://dev.to/roycelam">dev.to</a>. Drafts and full source live in <a href="https://github.com/rollroyces/blog">rollroyces/blog</a>.</p>
+      <p>Long-form writing on ML for biology, applied AI tooling, and formal methods. Every draft and the full source live in <a href="https://github.com/rollroyces/blog">rollroyces/blog</a> — 7 posts, ~9,300 words.</p>
       <ul class="work-list">
         <li class="reveal" data-delay="1"><a href="https://github.com/rollroyces/blog/blob/main/posts/01-deepcatch-multi-modal-cfdna-fragmentomics.md">Multi-modal cfDNA fragmentomics for ultra-early cancer detection</a><span class="dash">—</span><span class="desc">Performance-weighted fusion of fragmentomics, methylation, and sequence.</span></li>
         <li class="reveal" data-delay="2"><a href="https://github.com/rollroyces/blog/blob/main/posts/02-speaksql-9-sql-dialects-one-grammar.md">9 SQL dialects from one grammar</a><span class="dash">—</span><span class="desc">How speakSQL transpiles natural language to vendor-specific SQL.</span></li>
