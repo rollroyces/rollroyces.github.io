@@ -38,7 +38,7 @@ description: ML × bioinformatics engineer — production AI for mRNA design and
 
   <div class="stats reveal" data-delay="5" aria-label="Highlights">
     <div class="stat-card">
-      <div class="stat-value"><span data-counter="50">0</span>+</div>
+      <div class="stat-value"><span data-counter="60">0</span>+</div>
       <div class="stat-label">Open-source repos</div>
     </div>
     <div class="stat-card">
@@ -105,10 +105,10 @@ description: ML × bioinformatics engineer — production AI for mRNA design and
       </div>
     </a>
 
-    <a class="featured-card reveal" data-delay="2" href="https://github.com/rollroyces/mrna-ai-toolkit">
+    <a class="featured-card reveal" data-delay="2" href="https://github.com/rollroyces/mrnavax">
       <div class="featured-card-inner">
         <span class="tag bio">Bioinformatics</span>
-        <h3>mrna-ai-toolkit</h3>
+        <h3>mrnavax</h3>
         <p>End-to-end mRNA design: codon optimization, UTR engineering, neoantigen prediction, LNP formulation.</p>
         <span class="arrow">View project →</span>
       </div>
