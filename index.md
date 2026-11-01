@@ -118,7 +118,7 @@ description: ML × bioinformatics engineer — production AI for mRNA design and
       <div class="featured-card-inner">
         <span class="tag ai">Production AI</span>
         <h3>py-idp</h3>
-        <p>Production document AI · 12+ LLM backends · HITL review · 92% test coverage.</p>
+        <p>Production document AI · 23 LLM backends · HITL review · 92% test coverage.</p>
         <span class="arrow">View project →</span>
       </div>
     </a>
@@ -209,7 +209,6 @@ description: ML × bioinformatics engineer — production AI for mRNA design and
       <li class="reveal" data-delay="1">
         <a href="https://github.com/rollroyces/vcp-signals">vcp-signals</a> ·
         <a href="https://github.com/rollroyces/AI-Trader">AI-Trader</a> ·
-        <a href="https://github.com/rollroyces/mr-strategy">mr-strategy</a> ·
         <a href="https://github.com/rollroyces/vmaa">vmaa</a>
         <span class="dash">—</span>
         <span class="desc">VCP patterns, mean-reversion, agent-native execution.</span>
